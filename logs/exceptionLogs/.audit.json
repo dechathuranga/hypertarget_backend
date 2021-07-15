@@ -1,0 +1,639 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "logs\\exceptionLogs/.audit.json",
+    "files": [
+        {
+            "date": 1625594662388,
+            "name": "logs\\logs\\application-2021-07-06-23.log",
+            "hash": "e41cbeee5f71f0bd402c0737273e0b45"
+        },
+        {
+            "date": 1625594662400,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-06-23.log",
+            "hash": "c7fb1a330cab8af1e8f8e4e62fcb414a"
+        },
+        {
+            "date": 1625669957476,
+            "name": "logs\\logs\\application-2021-07-07-20.log",
+            "hash": "da4c7b02da974a4c984cda7a8c70ed21"
+        },
+        {
+            "date": 1625669957482,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-07-20.log",
+            "hash": "354f280298234c8d1eeec257e012f44b"
+        },
+        {
+            "date": 1625671908438,
+            "name": "logs\\logs\\application-2021-07-07-21.log",
+            "hash": "cf4e126b22a3643ec70ef1ca5415d23c"
+        },
+        {
+            "date": 1625673483630,
+            "name": "logs\\logs\\application-2021-07-07-21.log",
+            "hash": "3b06e4a6dcae5ac7d47093dfc0f2f767"
+        },
+        {
+            "date": 1625673483636,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-07-21.log",
+            "hash": "d4ea00d11a87589ac7a4a9f29bd9fafe"
+        },
+        {
+            "date": 1625678303691,
+            "name": "logs\\logs\\application-2021-07-07-22.log",
+            "hash": "2a8b17d1c18e9e98ece311dde794cbb7"
+        },
+        {
+            "date": 1625679637388,
+            "name": "logs\\logs\\application-2021-07-07-23.log",
+            "hash": "6a85809d3d193fb98187e70ec0a43351"
+        },
+        {
+            "date": 1625682606973,
+            "name": "logs\\logs\\application-2021-07-08-00.log",
+            "hash": "d59cb98e8f3fc93ed1dbf0260324be70"
+        },
+        {
+            "date": 1625756351680,
+            "name": "logs\\logs\\application-2021-07-08-20.log",
+            "hash": "8d637169154e291a79fb3f730048040a"
+        },
+        {
+            "date": 1625756351695,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-08-20.log",
+            "hash": "1986c10e71a39285f7e4627b3926313b"
+        },
+        {
+            "date": 1625758565553,
+            "name": "logs\\logs\\application-2021-07-08-21.log",
+            "hash": "0e6d512faab5ca61542255b483895af9"
+        },
+        {
+            "date": 1625771062794,
+            "name": "logs\\logs\\application-2021-07-09-00.log",
+            "hash": "d659b13b382db8c66cc0645842e05c4f"
+        },
+        {
+            "date": 1625772604396,
+            "name": "logs\\logs\\application-2021-07-09-01.log",
+            "hash": "99b87fec7006214acbe7be86e18c3ec5"
+        },
+        {
+            "date": 1625802366018,
+            "name": "logs\\logs\\application-2021-07-09-09.log",
+            "hash": "ae98bee41199eaeb724ec2856e76c627"
+        },
+        {
+            "date": 1625847036349,
+            "name": "logs\\logs\\application-2021-07-09-21.log",
+            "hash": "138f0875a1d44479b37ffe9bc69b7861"
+        },
+        {
+            "date": 1625847036357,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-09-21.log",
+            "hash": "ca35c3ecb8b27a8373db7437ec7ee3c5"
+        },
+        {
+            "date": 1625912543428,
+            "name": "logs\\logs\\application-2021-07-10-15.log",
+            "hash": "e4370676ededd052f815e0eae21b89f7"
+        },
+        {
+            "date": 1625912577143,
+            "name": "logs\\logs\\application-2021-07-10-15.log",
+            "hash": "8dcc9aba2090ac7a7c942a5af04dd419"
+        },
+        {
+            "date": 1625912577153,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-10-15.log",
+            "hash": "e378238df7e991a16dcfacdb70fe815f"
+        },
+        {
+            "date": 1625915516707,
+            "name": "logs\\logs\\application-2021-07-10-16.log",
+            "hash": "261f16cac8e0c2f9945c82b89ceaef12"
+        },
+        {
+            "date": 1625915516715,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-10-16.log",
+            "hash": "a7b4c9aade8109dba7226d4637ca6c80"
+        },
+        {
+            "date": 1625916634355,
+            "name": "logs\\logs\\application-2021-07-10-17.log",
+            "hash": "2870356a4469d8cd48cb02f9774754e0"
+        },
+        {
+            "date": 1625919731049,
+            "name": "logs\\logs\\application-2021-07-10-17.log",
+            "hash": "9aaf8b93511c1944dd78396f95318bb4"
+        },
+        {
+            "date": 1625919731054,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-10-17.log",
+            "hash": "00926944e9a225618bbcf4f5964891d6"
+        },
+        {
+            "date": 1625920218760,
+            "name": "logs\\logs\\application-2021-07-10-18.log",
+            "hash": "712119e26699ac3823f577bc118bb90e"
+        },
+        {
+            "date": 1625924381563,
+            "name": "logs\\logs\\application-2021-07-10-19.log",
+            "hash": "bb75a9a17b7401a29de1413abb79ec2a"
+        },
+        {
+            "date": 1625935137505,
+            "name": "logs\\logs\\application-2021-07-10-22.log",
+            "hash": "c880265db5695defa8834b87f00cc269"
+        },
+        {
+            "date": 1625935137511,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-10-22.log",
+            "hash": "744b6d40cb250bd4a6ceb68ae17d5ca8"
+        },
+        {
+            "date": 1625938204237,
+            "name": "logs\\logs\\application-2021-07-10-23.log",
+            "hash": "1c46635c525f4d9de46185633d8eb91a"
+        },
+        {
+            "date": 1625941829393,
+            "name": "logs\\logs\\application-2021-07-11-00.log",
+            "hash": "f8532660ccb921ed3766f2957fe9d67c"
+        },
+        {
+            "date": 1625942549374,
+            "name": "logs\\logs\\application-2021-07-11-00.log",
+            "hash": "13349699963e5878299bb252c398ea8e"
+        },
+        {
+            "date": 1625942549378,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-11-00.log",
+            "hash": "a3922d34dd14ac32cd3d6c4f71251048"
+        },
+        {
+            "date": 1625942675759,
+            "name": "logs\\logs\\application-2021-07-11-00.log",
+            "hash": "789d8ce99985cab3e642dc066d916c42"
+        },
+        {
+            "date": 1625942675763,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-11-00.log",
+            "hash": "72b2f12d92ed480c1485ffa1851536b8"
+        },
+        {
+            "date": 1625943661232,
+            "name": "logs\\logs\\application-2021-07-11-00.log",
+            "hash": "3ecd02865fe178fddb76c0db78fcdabf"
+        },
+        {
+            "date": 1625943661235,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-11-00.log",
+            "hash": "04455737b67e3afdf3c66ae425360d9e"
+        },
+        {
+            "date": 1626015586734,
+            "name": "logs\\logs\\application-2021-07-11-20.log",
+            "hash": "b45abc2cde94d40b5427bbdae2d77689"
+        },
+        {
+            "date": 1626017440979,
+            "name": "logs\\logs\\application-2021-07-11-21.log",
+            "hash": "999400f42efabd0d70920b72df35ecc7"
+        },
+        {
+            "date": 1626018404062,
+            "name": "logs\\logs\\application-2021-07-11-21.log",
+            "hash": "96aa019d11aebaf6be8a125023d1aced"
+        },
+        {
+            "date": 1626018404073,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-11-21.log",
+            "hash": "c5bbdd13cd3aa171c47a1ef0e73fae89"
+        },
+        {
+            "date": 1626019021563,
+            "name": "logs\\logs\\application-2021-07-11-21.log",
+            "hash": "bb4d8e3afd84a8db21d3d1a432fe4cb1"
+        },
+        {
+            "date": 1626019021571,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-11-21.log",
+            "hash": "8d5c3f0305e7f1ee49c9beaa8428ae00"
+        },
+        {
+            "date": 1626021023172,
+            "name": "logs\\logs\\application-2021-07-11-22.log",
+            "hash": "7a43b4c9703fa8b21b5f053b2e6e0fef"
+        },
+        {
+            "date": 1626024695058,
+            "name": "logs\\logs\\application-2021-07-11-23.log",
+            "hash": "b997a0488b8ea3f81c44e9838e0d2352"
+        },
+        {
+            "date": 1626028333935,
+            "name": "logs\\logs\\application-2021-07-12-00.log",
+            "hash": "959644e05495f7a04d20bcdaee9c179d"
+        },
+        {
+            "date": 1626028333961,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-12-00.log",
+            "hash": "51e02ae20a04bf4b6cbeac79e1efba8f"
+        },
+        {
+            "date": 1626029823752,
+            "name": "logs\\logs\\application-2021-07-12-00.log",
+            "hash": "8850b529266e2cfd77e12e7b37e4aa1c"
+        },
+        {
+            "date": 1626029823756,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-12-00.log",
+            "hash": "c5a416f779f2a5d45032db5a484b81c6"
+        },
+        {
+            "date": 1626029894884,
+            "name": "logs\\logs\\application-2021-07-12-00.log",
+            "hash": "7d550e1e65c648c0564193dd278f7f8d"
+        },
+        {
+            "date": 1626029894891,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-12-00.log",
+            "hash": "ff224534710681196ccc2a0da80d55fa"
+        },
+        {
+            "date": 1626030890059,
+            "name": "logs\\logs\\application-2021-07-12-00.log",
+            "hash": "6de328b2ee30621456b7286c9e41000b"
+        },
+        {
+            "date": 1626030890063,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-12-00.log",
+            "hash": "4eb7549a81ab23972ed55f74d9679151"
+        },
+        {
+            "date": 1626031233011,
+            "name": "logs\\logs\\application-2021-07-12-00.log",
+            "hash": "3be46da73d3f08800dd3f373375a4861"
+        },
+        {
+            "date": 1626031233015,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-12-00.log",
+            "hash": "219713c90d7e6685a1480267cfc19fac"
+        },
+        {
+            "date": 1626031835085,
+            "name": "logs\\logs\\application-2021-07-12-01.log",
+            "hash": "16065147fe54e1631925c5800ea3a2f0"
+        },
+        {
+            "date": 1626034541475,
+            "name": "logs\\logs\\application-2021-07-12-01.log",
+            "hash": "7e788170d9f44d34827b6f43756265b8"
+        },
+        {
+            "date": 1626034541479,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-12-01.log",
+            "hash": "ce46741cf6317e0b966c8ce4db4c504d"
+        },
+        {
+            "date": 1626034898606,
+            "name": "logs\\logs\\application-2021-07-12-01.log",
+            "hash": "75ed5d17b1b6ae653e26768dbc416f12"
+        },
+        {
+            "date": 1626034898610,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-12-01.log",
+            "hash": "e79d833aa5d876e7cababac6ff5ac983"
+        },
+        {
+            "date": 1626035466022,
+            "name": "logs\\logs\\application-2021-07-12-02.log",
+            "hash": "b69aeb062c09b9555139c690b6ab0c97"
+        },
+        {
+            "date": 1626037324646,
+            "name": "logs\\logs\\application-2021-07-12-02.log",
+            "hash": "ee9f69ca62aac6f6941b1e34dbc1767b"
+        },
+        {
+            "date": 1626037324651,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-12-02.log",
+            "hash": "eb7f4270e2a306bad56c7400b9d49a8c"
+        },
+        {
+            "date": 1626037911113,
+            "name": "logs\\logs\\application-2021-07-12-02.log",
+            "hash": "7e854699b7e2bf42c326833263a0c8cd"
+        },
+        {
+            "date": 1626037911117,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-12-02.log",
+            "hash": "0ba962fd7a7071908b4052f550ba5b0e"
+        },
+        {
+            "date": 1626037950372,
+            "name": "logs\\logs\\application-2021-07-12-02.log",
+            "hash": "202ab317da1d84e399e55070f3da33d5"
+        },
+        {
+            "date": 1626037950376,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-12-02.log",
+            "hash": "d0795271ad672960c985846f8efe8df8"
+        },
+        {
+            "date": 1626038061667,
+            "name": "logs\\logs\\application-2021-07-12-02.log",
+            "hash": "9a0b2ce7c1ab4b6ad672c72076265a98"
+        },
+        {
+            "date": 1626038061677,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-12-02.log",
+            "hash": "0b11f29be3c0c92d3f352ad4f8e7f1a5"
+        },
+        {
+            "date": 1626038296743,
+            "name": "logs\\logs\\application-2021-07-12-02.log",
+            "hash": "7084c3d7639e778587075235efd0978e"
+        },
+        {
+            "date": 1626038296747,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-12-02.log",
+            "hash": "b238eb4912ae786c518f11d2f36f8a43"
+        },
+        {
+            "date": 1626038379988,
+            "name": "logs\\logs\\application-2021-07-12-02.log",
+            "hash": "934486316fc64cebd0463cea210e0778"
+        },
+        {
+            "date": 1626038379992,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-12-02.log",
+            "hash": "29dcfeb39d02f49bef1421c03ec4dea5"
+        },
+        {
+            "date": 1626038407058,
+            "name": "logs\\logs\\application-2021-07-12-02.log",
+            "hash": "dde6b368ee76e57d534b8a9b4390fffa"
+        },
+        {
+            "date": 1626038407062,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-12-02.log",
+            "hash": "a3bfe9d4454da98803ddc0610c98cf4c"
+        },
+        {
+            "date": 1626038517897,
+            "name": "logs\\logs\\application-2021-07-12-02.log",
+            "hash": "9c27b684cf40b4a400727706523c845f"
+        },
+        {
+            "date": 1626038517901,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-12-02.log",
+            "hash": "d23bb8e0d5b66b78d95fc7cd0dd03c77"
+        },
+        {
+            "date": 1626039083250,
+            "name": "logs\\logs\\application-2021-07-12-03.log",
+            "hash": "5754a0760c33e27b854eb0827b033465"
+        },
+        {
+            "date": 1626039083257,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-12-03.log",
+            "hash": "aa174a983e2e440e962e49ce23566c60"
+        },
+        {
+            "date": 1626040468084,
+            "name": "logs\\logs\\application-2021-07-12-03.log",
+            "hash": "977bd52013e9900864cf0cd27035c3f0"
+        },
+        {
+            "date": 1626040468087,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-12-03.log",
+            "hash": "720a79decab77758134e676e6e1410bb"
+        },
+        {
+            "date": 1626040508080,
+            "name": "logs\\logs\\application-2021-07-12-03.log",
+            "hash": "958766b79916a1bedd3ae7347df70e52"
+        },
+        {
+            "date": 1626040508086,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-12-03.log",
+            "hash": "28b9f997e5a1f6534cbd53805c1c83f7"
+        },
+        {
+            "date": 1626041340818,
+            "name": "logs\\logs\\application-2021-07-12-03.log",
+            "hash": "70372b4bc5f06b5b25f85b38fb8c40eb"
+        },
+        {
+            "date": 1626041340822,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-12-03.log",
+            "hash": "10a2f1108a51dfad050cf2624198d6b0"
+        },
+        {
+            "date": 1626041372479,
+            "name": "logs\\logs\\application-2021-07-12-03.log",
+            "hash": "236e371f014eb28e8957079e060d3fd0"
+        },
+        {
+            "date": 1626041372484,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-12-03.log",
+            "hash": "bd65aa4a2a04fb0a473449bc13c03ebe"
+        },
+        {
+            "date": 1626113590970,
+            "name": "logs\\logs\\application-2021-07-12-23.log",
+            "hash": "01f784664f655682c93d24f63979daea"
+        },
+        {
+            "date": 1626113590982,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-12-23.log",
+            "hash": "f3583bed59da234ebf0771ae80887360"
+        },
+        {
+            "date": 1626285721370,
+            "name": "logs\\logs\\application-2021-07-14-23.log",
+            "hash": "024ba47769cc4b2f090d887599ed8614"
+        },
+        {
+            "date": 1626285721376,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-14-23.log",
+            "hash": "4add23671c89f74bfc95893f950ca7c3"
+        },
+        {
+            "date": 1626285772102,
+            "name": "logs\\logs\\application-2021-07-14-23.log",
+            "hash": "196e9961e25e2ff8a1b7fadb68b244a1"
+        },
+        {
+            "date": 1626285772106,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-14-23.log",
+            "hash": "70d2c433518b7d7cd832aedfcd4b22eb"
+        },
+        {
+            "date": 1626285856620,
+            "name": "logs\\logs\\application-2021-07-14-23.log",
+            "hash": "877e8f7a0bee66972bcbe53d6b74102f"
+        },
+        {
+            "date": 1626285856624,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-14-23.log",
+            "hash": "ea4242d336cd9ebcd23cf3f1b9a9e68e"
+        },
+        {
+            "date": 1626285869545,
+            "name": "logs\\logs\\application-2021-07-14-23.log",
+            "hash": "fe04c529961c81da46b02889f234f870"
+        },
+        {
+            "date": 1626285869551,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-14-23.log",
+            "hash": "0f9568007bb90a114f252b50f57539d9"
+        },
+        {
+            "date": 1626285929255,
+            "name": "logs\\logs\\application-2021-07-14-23.log",
+            "hash": "002f7e7acbd55a05cd42d91576cb9455"
+        },
+        {
+            "date": 1626285929259,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-14-23.log",
+            "hash": "b0e92db00371757c31868a2ec09c45d1"
+        },
+        {
+            "date": 1626288208006,
+            "name": "logs\\logs\\application-2021-07-15-00.log",
+            "hash": "c8240cab5ae48babb6b6ef13c4e1a41d"
+        },
+        {
+            "date": 1626288848434,
+            "name": "logs\\logs\\application-2021-07-15-00.log",
+            "hash": "f87c5f70275ca91775378c48b2d83d88"
+        },
+        {
+            "date": 1626288848437,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-15-00.log",
+            "hash": "d3a13960f91e039e89600f57e463e5da"
+        },
+        {
+            "date": 1626288863458,
+            "name": "logs\\logs\\application-2021-07-15-00.log",
+            "hash": "c550b8cd1d10733e142f859714d9c6b5"
+        },
+        {
+            "date": 1626288863462,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-15-00.log",
+            "hash": "5f2daea238b99b7a484609e629f6ff0e"
+        },
+        {
+            "date": 1626288880813,
+            "name": "logs\\logs\\application-2021-07-15-00.log",
+            "hash": "cd3893d24ae677834d5490e89f415866"
+        },
+        {
+            "date": 1626288880817,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-15-00.log",
+            "hash": "14a3557ee313e735c7a1406872fc0548"
+        },
+        {
+            "date": 1626288989273,
+            "name": "logs\\logs\\application-2021-07-15-00.log",
+            "hash": "d856f485674530c316ece676605d2f4d"
+        },
+        {
+            "date": 1626288989277,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-15-00.log",
+            "hash": "0d1ff6aa41251587a06e9b6409282291"
+        },
+        {
+            "date": 1626289005088,
+            "name": "logs\\logs\\application-2021-07-15-00.log",
+            "hash": "e71357ccab58c2ef060c49d0b761828b"
+        },
+        {
+            "date": 1626289005091,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-15-00.log",
+            "hash": "65492a58f35fba9633c388106e10b0eb"
+        },
+        {
+            "date": 1626289020989,
+            "name": "logs\\logs\\application-2021-07-15-00.log",
+            "hash": "7f02c09d15a1614da87ad4c0ff7361f1"
+        },
+        {
+            "date": 1626289021014,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-15-00.log",
+            "hash": "6a53587426dcf48565702ca4da19553a"
+        },
+        {
+            "date": 1626289037512,
+            "name": "logs\\logs\\application-2021-07-15-00.log",
+            "hash": "9bcd3170728eebed110d57c617554ecb"
+        },
+        {
+            "date": 1626289037517,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-15-00.log",
+            "hash": "21040899e3b83235c7797ae663363a14"
+        },
+        {
+            "date": 1626289896829,
+            "name": "logs\\logs\\application-2021-07-15-00.log",
+            "hash": "687e2b999d486c6ba77407b8c88a8216"
+        },
+        {
+            "date": 1626289896833,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-15-00.log",
+            "hash": "a36ed8681931d3921db332750b9ecc08"
+        },
+        {
+            "date": 1626290464388,
+            "name": "logs\\logs\\application-2021-07-15-00.log",
+            "hash": "03e9560aca983dab258e3a00131951ec"
+        },
+        {
+            "date": 1626290464392,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-15-00.log",
+            "hash": "f318c602f3582dec08bc1250fc3983e8"
+        },
+        {
+            "date": 1626291004044,
+            "name": "logs\\logs\\application-2021-07-15-01.log",
+            "hash": "7ce6259e826a8392d33cbe109c891402"
+        },
+        {
+            "date": 1626291350911,
+            "name": "logs\\logs\\application-2021-07-15-01.log",
+            "hash": "4b61728111b40296ea6b52cf9d912cd9"
+        },
+        {
+            "date": 1626291350919,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-15-01.log",
+            "hash": "c4691398612a6e9e709963e4f8f4c662"
+        },
+        {
+            "date": 1626291689873,
+            "name": "logs\\logs\\application-2021-07-15-01.log",
+            "hash": "d20b3720ba565b40ddf54f6247ea870d"
+        },
+        {
+            "date": 1626291689877,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-15-01.log",
+            "hash": "399857b5dd80b779b0795916532bb898"
+        },
+        {
+            "date": 1626292499003,
+            "name": "logs\\logs\\application-2021-07-15-01.log",
+            "hash": "7c8e30df61b9b7f7abd7aa5741a562ec"
+        },
+        {
+            "date": 1626292499008,
+            "name": "logs\\exceptionLogs\\exceptions-2021-07-15-01.log",
+            "hash": "bb84ab6ed68b56ad8ae77f311e487287"
+        }
+    ]
+}
