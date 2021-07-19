@@ -3,6 +3,7 @@ var path = require('path');
 var cors = require('cors');
 
 var hypertargetRouter = require('./routes/hypertarget');
+var userRouter = require('./routes/user');
 
 var mysqlPool = require('./config/mysqlConnection');
 
@@ -19,6 +20,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
 app.use('/hypertarget', hypertargetRouter);
+app.use('/user', userRouter);
 
 app.use(express.static(__dirname + '/public'));
 
